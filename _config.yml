@@ -1,0 +1,20 @@
+# Site settings
+author: Daniel Kwon
+title: 
+header-img: img/home-bg.png
+email: danielkwon89@gmail.com
+copyright_name: Daniel Kwon
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  danielkwon89
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
