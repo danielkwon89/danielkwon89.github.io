@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "I decided to study software engineering because I needed arrays (a raise)"
+title:      "Terminally hooked: Why I decided to study software engineering"
 date:       2020-05-16 16:24:33 -0400
 permalink:  i_decided_to_study_software_engineering_because_i_needed_arrays_a_raise
 ---
