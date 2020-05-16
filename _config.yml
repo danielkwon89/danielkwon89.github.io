@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Kwon
-title: 
+title: Terminally hooked
 header-img: img/home-bg.png
 email: danielkwon89@gmail.com
 copyright_name: Daniel Kwon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog detailing my Flatiron School journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  danielkwon89
